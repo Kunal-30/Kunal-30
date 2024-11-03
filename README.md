@@ -5,7 +5,7 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://github.com/Kunal-30/Kunal-30/blob/main/giphy-unscreen.gif?raw=true" width="500"/>
+  <img src="https://github.com/Kunal-30/Kunal-30/blob/main/giphy-unscreen.gif?raw=true" width="350"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/kunalt3007/">
