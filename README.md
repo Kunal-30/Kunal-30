@@ -47,7 +47,7 @@ With a keen eye for detail and a passion for user experience, I enjoy diving int
 
 ##  Let’s Connect!
 - **GitHub**: [Kunal's GitHub](https://github.com/Kunal-30)
-- **LinkedIn**: [LinkedIn Profile](//www.linkedin.com/in/kunalt3007/)
+- **LinkedIn**: [LinkedIn Profile](//www.linkedin.com/in/kunal-tagde/)
 - **Twitter**: [Twitter Profile](https://x.com/Kunall30)
 
 ---
